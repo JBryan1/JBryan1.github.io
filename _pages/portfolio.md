@@ -4,8 +4,8 @@ title: "Portfolio"
 excerpt: "Portfolio"
 author_profile: true
 redirect_from: 
-  - /portfolio/
-  - /portfolio.html
+  - "/portfolio/"
+  - "/portfolio.html"
 ---
 
 A collection of my research projects, workbooks, and side projects
