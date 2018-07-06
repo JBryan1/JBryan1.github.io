@@ -2,7 +2,8 @@
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
-
+redirect_from:
+  - /work
 ---
 
 A collection of my research projects, workbooks, and side projects
