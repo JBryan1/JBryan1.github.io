@@ -11,7 +11,7 @@ redirect_from:
 
 # Portfolio
 
-I collection of my research projects, workbooks, and side projects
+A collection of my research projects, workbooks, and side projects
 
 ## Prediction
 
