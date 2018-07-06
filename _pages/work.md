@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-permalink: /work/
+permalink: /
 author_profile: true
 redirect_from: 
   - "/work/"
