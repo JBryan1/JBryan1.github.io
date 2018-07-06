@@ -83,7 +83,7 @@ author:
   bio              : "Statistician with experience in Bayesian statistics, machine learning, and health policy"
   location         : "Washington, DC"
   employer         : "Duke University"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/bryanjonathan"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
