@@ -1,6 +1,7 @@
 ---
-permalink: /portfolio/
+layout: archive
 title: "Portfolio"
+permalink: /portfolio/
 excerpt: "Portfolio"
 author_profile: true
 redirect_from: 
