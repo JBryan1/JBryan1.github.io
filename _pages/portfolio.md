@@ -13,7 +13,7 @@ A collection of my research projects, workbooks, and side projects
 - [Average Daily Mood Prediction with Bayesian Structural Time Series](https://github.com/JBryan1/Daily-Mood-Prediction): Daily mood prediction using five months of average daily mood measurements and biometric activity collected by a Samsung Galaxy S8+.
 
 
-- [Leukemia Classification with Partial Least Squares-Discriminant Analysis ](https://google.com): Classification of 73 cases of acute lymphoblastic leukemia (ALL) or acute myeloid leukemia (AML) on 7,129 gene expression covariates.
+- [Leukemia Classification with Partial Least Squares-Discriminant Analysis ](https://github.com/JBryan1/PLS-DA-Genotype-Phenotype/): Classification of 73 cases of acute lymphoblastic leukemia (ALL) or acute myeloid leukemia (AML) on 7,129 gene expression covariates.
 
 
 ## Statistical Inference
