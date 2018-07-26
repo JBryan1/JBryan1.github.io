@@ -10,5 +10,5 @@ Originally from the Ashburn, Virginia (suburbs of Washington, DC), I studied Bio
 Outside of professional life I enjoy spending time with my Shichon and Cavachon pups (see below), rooting for Arsenal (Go Gunners), and reading plot summaries of bad movies I will never see.
 
 ```markdown
-![](/images/puppies.jpg)
+![](https://jbryan1.github.io/images/puppies.jpg)
 ```
